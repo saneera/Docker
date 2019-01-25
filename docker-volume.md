@@ -20,8 +20,3 @@ https://docs.docker.com/compose/install/#install-compose
 ```
 
 
-
-```
-docker run -p 5000:3000 -v $(pwd):/app <imagid>
-```
-
